@@ -1,8 +1,6 @@
 # simple-api
 API Simples em Python com Deploy no Render
 
-Esta é uma API simples feita com **FastAPI** contendo dois endpoints GET:
+# Deploy no render
 
-- **/health** → Retorna o status da aplicação.
-- **/me** → Retorna informações pessoais do aluno.
-
+https://simple-api-c41x.onrender.com
