@@ -4,10 +4,10 @@ app = FastAPI()
 
 @app.get("/health")
 def health():
-    return {"status": "OK", "mensagem": "API funcionando"}
+    return {"status": "OK", "mensagem": "API está funcionando"}
 
 @app.get("/me")
 def me():
     return {
-        "nome": "Luan Diniz"
+        "nome": "Wellington Almeida",
     }
